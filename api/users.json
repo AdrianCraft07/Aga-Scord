@@ -1,0 +1,25 @@
+[
+	{
+		"avatar": "https://cdn.discordapp.com/avatars/702349824107872307/d0940c864c08dfdba37b84f46d9d2d3e.webp?size=80",
+		"name": "Developer",
+		"bot": false,
+		"id": 1668737919092,
+		"discriminator": "0000",
+		"#private": {
+			"email": "email@example.com",
+			"password": "password"
+		}
+	},
+	{
+		"avatar": "https://avatars.githubusercontent.com/u/88064157?v=4",
+		"name": "Bot",
+		"bot": true,
+		"id": 1668925568982,
+		"discriminator": "0001",
+		"verified": true,
+		"#private": {
+			"token": "1234",
+			"author": 1668737919092
+		}
+	}
+]
